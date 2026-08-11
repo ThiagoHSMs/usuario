@@ -1,6 +1,6 @@
 package com.thiago.usuario.infrastructure.repository;
 
-import com.thiago_melhorando_spring.infrastructure.entiry.Telefone;
+import com.thiago.usuario.infrastructure.entiry.Telefone;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
